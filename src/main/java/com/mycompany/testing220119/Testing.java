@@ -10,5 +10,7 @@ package com.mycompany.testing220119;
  * @author Zhi Kai
  */
 public class Testing {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
